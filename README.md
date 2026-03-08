@@ -1,4 +1,4 @@
-# 👩‍💻 Wahiba Ziani
+# Hi I am Wahiba Ziani
 
 🎓 Master's Student in **Data Science & Information Systems Security**
 🏫 Polydisciplinary Faculty – Sultan Moulay Slimane University, Morocco
