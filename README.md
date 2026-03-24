@@ -130,4 +130,4 @@ German — Intermediate (B1)
 
 ---
 
-⭐ *I am always interested in collaborating on Data Science, AI and MLOps projects.*
+⭐ *I am always interested in collaborating on Data Science and AI projects.*
